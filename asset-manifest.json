@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/tictactoereactgame/static/css/main.6ec5f447.chunk.css",
+    "main.js": "/tictactoereactgame/static/js/main.fa39d425.chunk.js",
+    "main.js.map": "/tictactoereactgame/static/js/main.fa39d425.chunk.js.map",
+    "runtime-main.js": "/tictactoereactgame/static/js/runtime-main.591864f6.js",
+    "runtime-main.js.map": "/tictactoereactgame/static/js/runtime-main.591864f6.js.map",
+    "static/css/2.c7844391.chunk.css": "/tictactoereactgame/static/css/2.c7844391.chunk.css",
+    "static/js/2.8134c724.chunk.js": "/tictactoereactgame/static/js/2.8134c724.chunk.js",
+    "static/js/2.8134c724.chunk.js.map": "/tictactoereactgame/static/js/2.8134c724.chunk.js.map",
+    "static/js/3.f05e4931.chunk.js": "/tictactoereactgame/static/js/3.f05e4931.chunk.js",
+    "static/js/3.f05e4931.chunk.js.map": "/tictactoereactgame/static/js/3.f05e4931.chunk.js.map",
+    "index.html": "/tictactoereactgame/index.html",
+    "static/css/2.c7844391.chunk.css.map": "/tictactoereactgame/static/css/2.c7844391.chunk.css.map",
+    "static/css/main.6ec5f447.chunk.css.map": "/tictactoereactgame/static/css/main.6ec5f447.chunk.css.map",
+    "static/js/2.8134c724.chunk.js.LICENSE.txt": "/tictactoereactgame/static/js/2.8134c724.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tictactoereactgame/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.591864f6.js",
+    "static/css/2.c7844391.chunk.css",
+    "static/js/2.8134c724.chunk.js",
+    "static/css/main.6ec5f447.chunk.css",
+    "static/js/main.fa39d425.chunk.js"
+  ]
+}
